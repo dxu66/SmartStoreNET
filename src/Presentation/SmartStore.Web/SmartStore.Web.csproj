@@ -964,6 +964,7 @@
     <Content Include="Content\image-gallery\js\blueimp-gallery.js" />
     <Content Include="Content\Images\default-image.jpg" />
     <Content Include="Content\Images\grippy.png" />
+    <Content Include="Content\Images\icons\edms-logo.png" />
     <Content Include="Content\Images\sad.png" />
     <Content Include="Content\Images\smartstore.net-200-black.png" />
     <Content Include="Content\Images\smartstore.net-200-white.png" />
